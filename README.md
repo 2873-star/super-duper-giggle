@@ -65,17 +65,6 @@ MIT License
 	4.	OpenCV로 템플릿 매칭
 	5.	0.1초 주기 반복 (delay(100))
 
- 6.	app/
- └─ src/main/
-     ├─ java/com/example/autoclicker/
-     │     ├─ MainActivity.kt
-     │     ├─ ScreenshotService.kt
-     │     ├─ Screenshot.kt
-     │     ├─ Assets.kt
-     │     └─ MultiTemplateMatch.kt
-     ├─ res/layout/activity_main.xml
-     └─ AndroidManifest.xml
-
 코드는 Kotlin + OpenCV Android SDK + MediaProjection API 기준입니다.
 
 순서
